@@ -1,0 +1,3 @@
+# note_book_of_computer_science
+
+收录CS方面的笔记，初期可能收录的很杂
